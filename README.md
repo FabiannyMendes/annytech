@@ -33,19 +33,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ## 🌷 Redes
 
-[Instagram](SEULINK)
+[Instagram](https://www.instagram.com/fb.mendesz?igsh=dWQzMm52Z2FxcjNn)
